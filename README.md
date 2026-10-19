@@ -49,7 +49,7 @@ flowchart LR
 
 ## 📖 Problem statement, step by step
 
-Click each step to expand. The complete version is in the [PDF](docs/Deck_Pro_Problem_Statement_v2.pdf).
+Click each step to expand. The complete version is in the [PDF](https://github.com/ashokkumarboya93/AIDeckConditionAnalysisSystem/blob/main/Deck_Pro_Problem_Statement_v2.pdf).
 
 <details>
 <summary><b>Step 1 · What is the problem?</b></summary>
