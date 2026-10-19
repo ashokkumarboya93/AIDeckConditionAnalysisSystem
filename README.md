@@ -9,7 +9,7 @@
 ![Approach](https://img.shields.io/badge/approach-transfer%20learning-green)
 ![LLM](https://img.shields.io/badge/per--image%20LLM%20calls-none-lightgrey)
 
-[📄 Full Problem Statement (PDF)](docs/Deck_Pro_Problem_Statement_v2.pdf) · [🧭 Workflow](#-how-it-works) · [🗺️ Roadmap](#-roadmap)
+[📄 Full Problem Statement (PDF)]([docs/Deck_Pro_Problem_Statement_v2.pdf](https://github.com/ashokkumarboya93/AIDeckConditionAnalysisSystem/blob/main/Deck_Pro_Problem_Statement_v2.pdf) · [🧭 Workflow](#-how-it-works) · [🗺️ Roadmap](#-roadmap)
 
 </div>
 
